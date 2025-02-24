@@ -1,0 +1,7 @@
+id = "solarized_zed"
+name = "SolariZED Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["<shuji.narazaki@protonmail.com>"]
+description = "A slightly modified Solarized Zed theme."
+repository = "https://github.com/shnarazk/SolariZED.zed"
