@@ -1,1 +1,1 @@
-# SolariZed.zed
+# SolariZED.zed
